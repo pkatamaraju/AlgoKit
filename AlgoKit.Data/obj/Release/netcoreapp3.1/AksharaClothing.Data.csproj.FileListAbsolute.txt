@@ -1,0 +1,10 @@
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\bin\Release\netcoreapp3.1\AksharaClothing.Data.deps.json
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\bin\Release\netcoreapp3.1\AksharaClothing.Data.dll
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\bin\Release\netcoreapp3.1\AksharaClothing.Data.pdb
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Release\netcoreapp3.1\AksharaClothing.Data.csproj.AssemblyReference.cache
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Release\netcoreapp3.1\AksharaClothing.Data.AssemblyInfoInputs.cache
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Release\netcoreapp3.1\AksharaClothing.Data.AssemblyInfo.cs
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Release\netcoreapp3.1\AksharaClothing.Data.csproj.CoreCompileInputs.cache
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Release\netcoreapp3.1\AksharaClothing.Data.dll
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Release\netcoreapp3.1\AksharaClothing.Data.pdb
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Release\netcoreapp3.1\AksharaClothing.Data.GeneratedMSBuildEditorConfig.editorconfig

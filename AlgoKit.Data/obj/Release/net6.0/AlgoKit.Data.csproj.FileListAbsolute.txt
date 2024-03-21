@@ -1,0 +1,12 @@
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\bin\Release\net6.0\AlgoKit.Data.deps.json
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\bin\Release\net6.0\AlgoKit.Data.dll
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\bin\Release\net6.0\AlgoKit.Data.pdb
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\AlgoKit.Data.csproj.AssemblyReference.cache
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\AlgoKit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\AlgoKit.Data.AssemblyInfoInputs.cache
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\AlgoKit.Data.AssemblyInfo.cs
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\AlgoKit.Data.csproj.CoreCompileInputs.cache
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\AlgoKit.Data.dll
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\refint\AlgoKit.Data.dll
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\AlgoKit.Data.pdb
+C:\Users\pkatamaraju\Desktop\Trading_Zerodha\Trading_Zerodha\AlgoKit.Data\obj\Release\net6.0\ref\AlgoKit.Data.dll

@@ -1,0 +1,5 @@
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Debug\netcoreapp3.1\AlgoKit.Data.csproj.AssemblyReference.cache
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Debug\netcoreapp3.1\AlgoKit.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Debug\netcoreapp3.1\AlgoKit.Data.AssemblyInfoInputs.cache
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Debug\netcoreapp3.1\AlgoKit.Data.AssemblyInfo.cs
+C:\Users\pkatamaraju\Desktop\AksharaClothing\AksharaClothing.Data\obj\Debug\netcoreapp3.1\AlgoKit.Data.csproj.CoreCompileInputs.cache

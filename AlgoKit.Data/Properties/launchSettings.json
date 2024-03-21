@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "AlgoKit.Data": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:60798;http://localhost:60799"
+    }
+  }
+}
